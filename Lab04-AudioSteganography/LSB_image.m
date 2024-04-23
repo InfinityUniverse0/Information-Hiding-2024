@@ -69,7 +69,7 @@ title("Extracted Image");
 
 % Display Results in Detail
 figure(3);
-axis_set = [0.5, 1, -1, 1];
+axis_set = [0.5, 1, -0.15, 0.15];
 
 subplot(2, 1, 1);
 plot(cover_x, cover_y);
