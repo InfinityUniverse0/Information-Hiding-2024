@@ -1,4 +1,7 @@
 % Steganography using Parity Bit
+clear;
+clc;
+close all;
 
 % Cover Image
 cover_img = imread("images/PeppersRGB.bmp"); % Read image
